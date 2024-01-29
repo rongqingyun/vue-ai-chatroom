@@ -2,7 +2,7 @@
 
 
 ## 项目依赖参考
-![node v14.21.2](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/node.png "v14.21.2")&nbsp;&nbsp;![npm v6.14.17](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/npm.png "v6.14.17")&nbsp;&nbsp;![@vue/cli v5.0.8](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/vue-cli.png "@vue/cli v5.0.8") 
+![node v14.21.2](https://img.shields.io/badge/node-v14.21.2-brightgreen.svg "v14.21.2")&nbsp;&nbsp;![npm v6.14.17](https://img.shields.io/badge/npm-v6.14.17-086FA8.svg "v6.14.17")&nbsp;&nbsp;![@vue/cli v5.0.8](https://img.shields.io/badge/@vue/cli-v5.0.8-3DA878.svg "@vue/cli v5.0.8") 
 
 ## 项目介绍
 该项目基于node、npm和vue-cli工具进行开发，具备强大的功能和便捷的使用方式。 
