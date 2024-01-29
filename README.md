@@ -15,16 +15,16 @@
 ## 界面预览 
 
 ### 历史记录&预定义内容渲染
-![历史记录&预定义内容渲染](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/001.webp "历史记录&预定义内容渲染") 
+![历史记录&预定义内容渲染](https://rongqingyun.github.io/images/2023/001.webp "历史记录&预定义内容渲染") 
 
 ### 重新发送&链接渲染
-![重新发送&链接渲染](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/002.webp "重新发送&链接渲染")  
+![重新发送&链接渲染](https://rongqingyun.github.io/images/2023/002.webp "重新发送&链接渲染")  
 
 ### 图片&视频渲染
-![图片&视频渲染](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/003.webp "图片&视频渲染") 
+![图片&视频渲染](https://rongqingyun.github.io/images/2023/003.webp "图片&视频渲染") 
 
 ### 代码块渲染
-![代码块渲染](https://github.com/rongqingyun/vue-ai-chatroom/tree/main/src/assets/004.webp "代码块渲染") 
+![代码块渲染](https://rongqingyun.github.io/images/2023/004.webp "代码块渲染") 
 
 
 
