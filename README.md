@@ -5,7 +5,10 @@
 ![node v14.21.2](https://img.shields.io/badge/node-v14.21.2-brightgreen.svg "v14.21.2")&nbsp;&nbsp;![npm v6.14.17](https://img.shields.io/badge/npm-v6.14.17-086FA8.svg "v6.14.17")&nbsp;&nbsp;![@vue/cli v5.0.8](https://img.shields.io/badge/@vue/cli-v5.0.8-3DA878.svg "@vue/cli v5.0.8") 
 
 ## 项目介绍
+采用vue2+vant组件搭建的H5移动端AI对话窗口，旨在为用户提供智能化的对话体验。 
+
 该项目基于node、npm和vue-cli工具进行开发，具备强大的功能和便捷的使用方式。 
+
 该项目的主要特点是支持多种类型的内容渲染，包括链接、图片、视频和代码块。 
 
 
