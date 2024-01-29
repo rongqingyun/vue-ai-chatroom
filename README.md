@@ -1,24 +1,43 @@
 # vue-ai-chatroom
 
-## Project setup
+
+## 项目依赖参考
+![node v14.21.2](https://github.com/rongqingyun/vue-ai-chatroom/assets/node.png "v14.21.2")&nbsp;&nbsp;![npm v6.14.17](https://github.com/rongqingyun/vue-ai-chatroom/assets/npm.png "v6.14.17")&nbsp;&nbsp;![@vue/cli v5.0.8](https://github.com/rongqingyun/vue-ai-chatroom/assets/vue-cli.png "@vue/cli v5.0.8") 
+
+## 项目介绍
+该项目基于node、npm和vue-cli工具进行开发，具备强大的功能和便捷的使用方式。 
+该项目的主要特点是支持多种类型的内容渲染，包括链接、图片、视频和代码块。 
+
+
+## 界面预览 
+
+### 历史记录&预定义内容渲染
+![历史记录&预定义内容渲染](https://github.com/rongqingyun/vue-ai-chatroom/assets/001.webp "历史记录&预定义内容渲染") 
+
+### 重新发送&链接渲染
+![重新发送&链接渲染](https://github.com/rongqingyun/vue-ai-chatroom/assets/002.webp "重新发送&链接渲染")  
+
+### 图片&视频渲染
+![图片&视频渲染](https://github.com/rongqingyun/vue-ai-chatroom/assets/003.webp "图片&视频渲染") 
+
+### 代码块渲染
+![代码块渲染](https://github.com/rongqingyun/vue-ai-chatroom/assets/004.webp "代码块渲染") 
+
+
+
+## 项目设置
 ```
+<!-- 安装依赖 -->
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+<!-- 运行项目 -->
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+<!-- build项目 -->
 npm run build
 ```
 
-### Lints and fixes files
+### 代码检查
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
